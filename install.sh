@@ -2,7 +2,7 @@
 export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 webPort=18080
 errorMsg=success
-version=v1.1.0
+version=v1.0.0
 downLoadUrl=https://github.com/GxHeiMao/npsv2/releases/download/
 serverSoft=linux_amd64_server
 clientSoft=linux_amd64_client
